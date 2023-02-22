@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.16)
-project(subdivision)
+project(arap)
 
 list(PREPEND CMAKE_MODULE_PATH ${CMAKE_CURRENT_SOURCE_DIR}/cmake)
 
